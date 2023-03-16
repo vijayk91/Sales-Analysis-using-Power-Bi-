@@ -1,1 +1,3 @@
-# Sales-Analysis-using-Power-Bi-
+Atliq hardware company supplies computer hardware and peripherals (like desktop, headphone, pen drive, webcam, speaker, mouse etc.) to many of the clients like Excel store, Nomad Stores, Surge Stores, Electricalsara Stores across India. It has head office in Delhi and lots of regional offices throughout India.
+
+Designed a Power BI dashboard for Atliq Hardware to track KPIs (Sales and Revenue), compared regional performance and to analyzed top 5 products & customers. stakes directors are more interested in dashboards where they can look the real data visualization and get how the numbers are trending. Sales director can make data driven decisions which will help him to increase the sales of the company.
